@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday, [Boyfriend's Name]!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f8ff; /* Light blue background */
+            color: #333;
+            padding: 20px;
+        }
+        h1 {
+            color: #ff69b4; /* Pink for fun */
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        .message {
+            font-size: 1.2em;
+            margin: 20px 0;
+        }
+        .gifts {
+            list-style-type: none;
+            padding: 0;
+        }
+        .gifts li {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Happy Birthday, [Boyfriend's Name]! 🎉</h1>
+    <img src="https://via.placeholder.com/400x300?text=Your+Photo+Here" alt="Birthday Image" /> <!-- Replace with a real image URL or upload one -->
+    
+    <div class="message">
+        <p>Dear [Boyfriend's Name],</p>
+        <p>Today is all about you! I hope your day is filled with joy, laughter, and all the things you love. You're the best, and I can't wait to celebrate with you.</p>
+        <p>Love, [Your Name]</p>
+    </div>
+    
+    <h2>Why I Love You</h2>
+    <ul class="gifts">
+        <li>Your smile lights up my world.</li>
+        <li>You're kind, funny, and always there for me.</li>
+        <li>Here's to many more adventures together!</li>
+    </ul>
+    
+    <h2>Virtual Gifts</h2>
+    <p>🎂 A cake emoji because real cake is messy.</p>
+    <p>💖 Endless hugs and kisses.</p>
+    <p>🎁 A promise for a special date night.</p>
+</body>
+</html>
